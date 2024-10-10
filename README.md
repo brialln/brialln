@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @brialln
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning advanced programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-brialln/brialln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🏄‍♂️ ABOUT ME
+- I am urrently on Senior Year of Bachelor of Science in Information Technology. 
+- Open for collaboration and opportunities.
+- You may contact me through mayorbrianallen@gmail.com.
+- I love bread.
